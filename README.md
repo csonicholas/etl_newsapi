@@ -1,5 +1,5 @@
 # etl_newsapi
-Projeto Final do módulo de Extração de Dados do Santander Coders 2023
+Projeto do módulo de Extração de Dados do Santander Coders 2023
 
 ## Projeto - Extração de Dados I - Santander Corders 2023
 
